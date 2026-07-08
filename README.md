@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/github-banner.png" alt="G.P.G. Sajani GitHub Banner" width="100%">
+</p>
+
 # Hi 👋 I'm Sajani
 
 ### Software Engineering Undergraduate
